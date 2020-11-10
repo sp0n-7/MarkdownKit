@@ -5,7 +5,9 @@
 //  Created by Ivan Bruel on 18/07/16.
 //
 //
+
 import Foundation
+import UIKit
 
 open class MarkdownHeader: MarkdownLevelElement {
 

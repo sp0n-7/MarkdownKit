@@ -5,6 +5,8 @@
 //  Created by Ivan Bruel on 18/07/16.
 //
 //
+
+import UIKit
 import Foundation
 
 open class MarkdownList: MarkdownLevelElement {

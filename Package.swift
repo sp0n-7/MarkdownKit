@@ -9,6 +9,6 @@ let package = Package(
         .library(name: "MarkdownKit", targets: ["MarkdownKit"])
     ],
     targets: [
-        .target(name: "MarkdownKit", path: "MarkdownKit")
+        .target(name: "MarkdownKit", path: "MarkdownKit/Sources", exclude: ["AppKit/"])
     ]
 )

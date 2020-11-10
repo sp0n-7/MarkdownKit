@@ -5,6 +5,8 @@
 //  Created by _ on _.
 //
 //
+
+import UIKit
 import Foundation
 
 open class MarkdownStrikethrough: MarkdownCommonElement {
